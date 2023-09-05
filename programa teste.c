@@ -1,0 +1,17 @@
+#include <stdio.h>
+int main()
+{
+  printf("Oi! Esse eh um programa teste!\n");
+  printf("*\n");
+  printf("***\n");
+  printf("*****");
+
+
+
+
+
+
+
+
+ return 0;
+}
